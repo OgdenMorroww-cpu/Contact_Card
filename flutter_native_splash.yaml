@@ -1,0 +1,4 @@
+flutter_native_splash:
+  image: asset/contacts.png
+  color: "FFFFFF"
+  android_disable_fullscreen: false
